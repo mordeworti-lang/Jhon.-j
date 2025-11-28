@@ -394,7 +394,7 @@ class GestorReportes:
         
         # Verificar si hay ventas
         if not ventas_autores:
-            print("\n📭 No hay ventas registradas")
+            print("\n No hay ventas registradas")
             return
         
         # PASO 4: Ordenar por ingresos (mayor a menor)
