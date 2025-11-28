@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "santa biblia",
+        "autor": "dios",
+        "categoria": "religion",
+        "precio": 23.99,
+        "cantidad": 6
+    },
+    {
+        "titulo": "48 leyes del poder",
+        "autor": "robert green",
+        "categoria": "filosofia",
+        "precio": 24.99,
+        "cantidad": 45
+    },
+    {
+        "titulo": "viaje al oeste",
+        "autor": "wu cheng'en",
+        "categoria": "novela",
+        "precio": 50.99,
+        "cantidad": 20
+    },
+    {
+        "titulo": "the art of war",
+        "autor": "sun tzu",
+        "categoria": "filosofia",
+        "precio": 43.99,
+        "cantidad": 9
+    },
+    {
+        "titulo": "la divina comedia",
+        "autor": "dante alhigeri",
+        "categoria": "poema epico",
+        "precio": 30.99,
+        "cantidad": 9
+    },
+    {
+        "titulo": "la odisea",
+        "autor": "homero",
+        "categoria": "epopeya",
+        "precio": 20.99,
+        "cantidad": 15
+    }
+]

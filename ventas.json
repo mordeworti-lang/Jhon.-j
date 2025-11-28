@@ -1,0 +1,18 @@
+[
+    {
+        "id_cliente": "2",
+        "nombre_cliente": "isaias nasaret",
+        "fecha": "2025-11-28 08:00:15",
+        "productos": [
+            {
+                "titulo": "santa biblia",
+                "autor": "dios",
+                "categoria": "religion",
+                "cantidad": 3,
+                "precio_unitario": 23.99,
+                "subtotal": 71.97
+            }
+        ],
+        "total": 71.97
+    }
+]
